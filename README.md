@@ -41,7 +41,7 @@ Contribuições são bem-vindas! Se você tiver sugestões, correções de bugs 
 
 ### Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar, modificar e distribuir este código conforme necessário.
+Este projeto está licenciado sob a [Licença MIT](https://github.com/dougkalash/change-mac/blob/main/LICENSE.txt). Sinta-se à vontade para usar, modificar e distribuir este código conforme necessário.
 
 ### Aviso Legal
 
@@ -84,7 +84,7 @@ Contributions are welcome! If you have suggestions, bug fixes, or improvements t
 
 ### License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this code as needed.
+This project is licensed under the [MIT License](https://github.com/dougkalash/change-mac/blob/main/LICENSE.txt). Feel free to use, modify, and distribute this code as needed.
 
 ### Legal Disclaimer
 
